@@ -7,7 +7,7 @@ The work "Hello Future" won the third prize in the video design category of the 
 
 <img src="https://github.com/user-attachments/assets/6aca921b-3830-4af9-86aa-eb2733b99083" alt="作品预览图2" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/8d1b96e7-11cf-474c-a909-61713f553f0a" alt="蓝桥杯2022获奖证书国家" width="300"/>
+<img src="[https://github.com/user-attachments/assets/8d1b96e7-11cf-474c-a909-61713f553f0a](https://github.com/user-attachments/assets/0fa2d736-59d5-497e-a5a7-d0727bbd7e9c)" alt="蓝桥杯2022获奖证书国家" width="300"/>
 
 ## 作品介绍：
 教育是国之大计，党之大计。习近平总书记在考察安吉县时曾讲道：“抓教育就是抓发展，抓教育就是抓未来！”在乡村振兴大力开展之际，我们聚焦乡村教育，走进安吉县农村中学——杭垓中学。  
